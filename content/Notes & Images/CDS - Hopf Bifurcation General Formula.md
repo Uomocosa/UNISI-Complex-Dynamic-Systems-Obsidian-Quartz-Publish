@@ -1,0 +1,3 @@
+The basic example of the ***Hopf Bifurcation***:$$\left\{\begin{array}{l}  \dot x = \beta x - y + \sigma x(x^2 + y^2) \\ \dot y =  x + \beta y + \sigma y(x^2 + y^2)    \end{array}\right.$$Where $\beta$ and $\sigma$ are [[CDS - Bifurcation • Structural Stability • Bifurcation Value • Bifurcation Diagram|parameters]] and we have that:
+- $\sigma = -1$, we will have the [[CDS - Supercritical Hopf Bifurcation|SUPERcritical hopf bifurcation]].
+-  $\sigma = +1$, we will have the [[CDS - Subcritical Hopf Bifurcation|SUBcritical hopf bifurcation]].

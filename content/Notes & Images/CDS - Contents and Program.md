@@ -1,0 +1,31 @@
+- ***Introductions***
+	- [[CDS - Complex Systems|What are complex systems]].
+	- [[CDS - Why it is important studying complex systems|Why it is important studying complex systems]].
+- ***Basic mathematical concepts***
+	- Mathematical tools for analyzing autonomous linear and non linear ordinary differential equations.
+	- Introduction to qualitative analysis.
+	- Criteria and theorems for the asymptotic stability of equilibrium.
+- ###### _Nonlinear systems_
+	- Equations of nonlinear systems in continuous and discrete time.
+	- Linearization and Hartman-Grobman theorem.
+	- Nonlinear oscillations (limit cycles).
+- ###### _Bifurcations_
+	- Saddle-node bifurcation (continuous time).
+	- Transcritical bifurcation (continuous time)  
+	- Pitchfork bifurcation (continuous time).
+	- Hopf bifurcations (continuous time).
+	- Flip bifurcation (discrete time).
+	- Period doubling bifurcations (discrete and continuous time).
+- ###### _Deterministic chaos_
+	- Bifurcation cascades and routes to chaos.
+	- Chaotic attractors.
+	- The Lorenz system (continuous time).
+	- The Rossler systems (continuous time).
+	- The logistic map (discrete time).
+- ###### _Networked and distributed systems_
+	- Complex Networks.
+	- Dynamic systems on networks.
+	- Synchronization.
+	- Fractals.
+- ###### _Applications_
+	- Complex systems and cooperation in human societies.
