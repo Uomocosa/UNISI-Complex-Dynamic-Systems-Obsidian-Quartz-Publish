@@ -1,9 +1,9 @@
-***File***: ![[bifurcations.m]]
+***File***: ![[bifurcations.m]](*It will require some matlab packs, like "**symbolik toolbox**"*)
 
 ----
 ***Instructions***:
 1. Copy the script.
-2. Paste it into MATLAB
+2. Paste it into MATLAB (It does work for sure in [MATLAB Online](), as of writing `2024/10/01`)
 3. Run it and see what it does.
 
 Change the `my_system` function and insert the sytem you need:
